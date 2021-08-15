@@ -1,8 +1,6 @@
-### Hi there 👋
----
-I'm an Informatics Student
-
-<!--
+## Hi 👋, I'm Imam
+Informatics student from Yogyakarta. I'm interested in Web Development. Love to play with UI Design
+<!-- 
 **imamrdn/imamrdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
