@@ -1,4 +1,5 @@
 ### Hi there 👋
+---
 I'm an Informatics Student
 
 <!--
