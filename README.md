@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Imam
-Informatics student from Yogyakarta. I'm interested in Web Development. Love to play with UI Design
+Informatics student from Yogyakarta. I am passionate about developing websites and interested in interface design
 
 <p align="left">
 <a href="https://github.com/imamrdn">
