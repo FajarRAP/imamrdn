@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Imam
-Familiar with Linux operating system, likes about backend development and interested in interface design. 4th semester student of informatics engineering at Ahmad Dahlan University, Yogyakarta. Experienced as a computer technician and was a computer lab assistant for one year. 
+Familiar with Linux operating system, likes about backend development and interested in interface design. 3th semester student of informatics engineering at Ahmad Dahlan University, Yogyakarta. Experienced as a computer technician and was a computer lab assistant for one year. 
 
 <!-- <p align="left">
 <a href="https://github.com/imamrdn">
