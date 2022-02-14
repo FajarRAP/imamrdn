@@ -1,6 +1,4 @@
 ## Hi 👋, I'm Imam
-Familiar with Linux operating system, likes about backend development and interested in interface design. 3th semester student of informatics engineering at Ahmad Dahlan University, Yogyakarta. Experienced as a computer technician and was a computer lab assistant for one year. 
-
 <!-- <p align="left">
 <a href="https://github.com/imamrdn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imamrdn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
