@@ -1,5 +1,4 @@
 ## Hi, I'm Imam 🖐
-<br>
 
 I like to play on the server side. Apart from that, I like the Linux operating system 🐧. Not only is it more efficient in application development, Linux also has a beautiful appearance 🎨 and is easy to customize ✨. That's what makes me not feel bored while studying ⚡.
 
