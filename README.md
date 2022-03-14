@@ -3,8 +3,8 @@
 I like to play on the server side. Apart from that, I like the Linux operating system 🐧. Not only is it more efficient in application development, Linux also has a beautiful appearance 🎨 and is easy to customize ✨. That's what makes me not feel bored while studying ⚡.
 
 🌱 I'm currently studying building apps with Laravel <br>
-👯 If you want to discuss and collaborate with me. You can contact at Telegram [@imamrdn](https://t.me/imamrdn) <br>
-💬 You can see about me on Linkedin [@imamrdn](https://www.linkedin.com/in/imamrdn/)
+👯 If you want to discuss and collaborate with me. You can contact at [Telegram](https://t.me/imamrdn) <br>
+💬 You can see about me on [Linkedin](https://www.linkedin.com/in/imamrdn/)
 
 ### Languages and Tools
 
